@@ -1,0 +1,43 @@
+_repo: Gentlemen-Rovers_37812
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37812-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Powell, E. Alexander (Edward Alexander)
+    aliases:
+    - Powell, E. A. (Edward Alexander)
+    - Powell, Edward Alexander
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '3963'
+    url: http://www.gutenberg.org/2009/agents/3963
+    wikipedia: http://en.wikipedia.org/wiki/E._Alexander_Powell
+description: ''
+gutenberg_issued: '2011-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boyd, John Parker, 1764-1830'
+- !lcsh 'Laffite, Jean'
+- !lcsh 'Ward, Frederick Townsend, 1831-1862'
+- !lcsh 'Reid, Samuel Chester, 1783-1861'
+- !lcc 'E151'
+- !lcsh 'Walker, William, 1824-1860'
+- !lcsh 'Smith, Jedediah Strong, 1799-1831'
+- !lcsh 'Truxtun, Thomas, 1755-1822'
+- !lcsh 'California -- History -- 1846-1850'
+- !lcsh 'Eaton, William, 1764-1811'
+tableOfContents: 'For rent: an army on elephants (Boyd) -- When we fought Napoleon
+  (Truxton) -- When we captured an African kingdom (Eaton) -- The last fight of the
+  "General Armstrong" (Reid) -- The pirate who turned patriot (Lafitte) -- The man
+  who dared to cross the ranges (Smith) -- The flag of the bear -- The king of the
+  fillbusters (Walker) -- Cities captured by contract (Ward).'
+title: Gentlemen Rovers
+url: http://www.gutenberg.org/ebooks/37812
